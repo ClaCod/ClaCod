@@ -6,11 +6,6 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0050b2&size=35&center=true&vCenter=true&width=1000&lines=Heeeeey+what's+up!?,+I+am+ClaCode+😎;And+I+am+17+years+old;I+am+from+Angola+🇦🇴;We+are+Software+Developer's;And+now;Be+welcome+to+my+GitHub+profile!😁)](https://git.io/typing-svg)
   
- <div align="center">   
-   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=claudioafonsohenriques&show_icons=true&count_private=true&hide_border=true&title_color=0050b2&icon_color=0050b2&text_color=c9d1d9&bg_color=0d1117" alt="Claúdio Henriques" />  
-   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioafonsohenriques&layout=compact&langs_count=7&hide_border=true&title_color=0050b2&text_color=ffffff&bg_color=0d1117" /> 
- </div> 
-  
  <div align="center"> 
    <img align="center" width="500px" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=claudioafonsohenriques&theme=dark&background=0d1117&hide_border=false&border=0050b2"/> 
  <div/> 
