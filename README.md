@@ -1,25 +1,10 @@
-### Hi there 👋
-
-<!--
-**ClaCod/ClaCod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 P
-
- <H1 align="center" color="red">ClaCod</h1> 
+<H1 align="center" color="red">ClaCode</h1> 
  <p align="center"> 
    <a href="https://github.com/ClaCod"> 
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ClaCod&theme=transparent" /> 
    </a>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0050b2&size=35&center=true&vCenter=true&width=1000&lines=Heeeeey+what's+up!?,+I+am+ClaCode+😎;And+I+am+17+years+old;I+am+from+Angola+🇦🇴;I+am+a+Software+Developer+👨🏾‍💻;But+I'm+working+with+FrontEnd+e+Desktop+now;Be+welcome+to+my+GitHub+profile!😁)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0050b2&size=35&center=true&vCenter=true&width=1000&lines=Heeeeey+what's+up!?,+I+am+ClaCode+😎;And+I+am+17+years+old;I+am+from+Angola+🇦🇴;We+are+Software+Developer's;And+now;Be+welcome+to+my+GitHub+profile!😁)](https://git.io/typing-svg)
   
  <div align="center">   
    <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=claudioafonsohenriques&show_icons=true&count_private=true&hide_border=true&title_color=0050b2&icon_color=0050b2&text_color=c9d1d9&bg_color=0d1117" alt="Claúdio Henriques" />  
