@@ -1,4 +1,4 @@
-<H1 text-align:center;>ClaCode<img align="center" alt="Claudio-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  </h1>   
+<H1 text-align:"center";>ClaCode<img align="center" alt="Claudio-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  </h1>   
  <p align="center"> 
    <a href="https://github.com/ClaCod"> 
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ClaCod&theme=transparent" /> 
