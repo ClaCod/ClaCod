@@ -1,4 +1,4 @@
-<H1 text-align:center;>ClaCode<img align="center" alt="Claudio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">  </h1>   
+<H1 text-align:center;>ClaCode<img align="center" alt="Claudio-phyton" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phyton/phyton-original.svg">  </h1>   
  <p align="center"> 
    <a href="https://github.com/ClaCod"> 
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ClaCod&theme=transparent" /> 
